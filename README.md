@@ -1,4 +1,4 @@
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=croatialu&combine_all_yearly_contributions=true)
+![Croatia Lu's GitHub stats](https://github-readme-stats.vercel.app/api?username=croatialu&show_icons=true&theme=transparent)
 
 <hr>
 
