@@ -17,7 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown      4 hrs 49 mins         ██████████░░░░░░░░░░░░░░░   39.44 %
+TypeScript    2 hrs 28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+Other         1 hr 41 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Image (svg)   50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+YAML          49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
 ```
 
 <!--END_SECTION:waka-->
